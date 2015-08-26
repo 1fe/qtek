@@ -17,7 +17,7 @@ In Node.js/io.js:
 // load the modern build
 var qtek = require('qtek');
 // or a method (great for smaller builds with webpack)
-var qtek = require('qtek/lib/qtek');
+var qtek = require('qtek/lib/qtek.amd');
 var Node = require('qtek/lib/Node');
 ```
 
