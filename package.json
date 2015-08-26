@@ -1,7 +1,7 @@
 {
     "name" : "qtek",
     "description": "WebGL graphic library",
-    "version" : "0.2.1.-alpha1",
+    "version" : "0.2.1-amd-alpha1",
     "main": "dist/qtek.js",
     "keywords": [
         "WebGL",
