@@ -2,7 +2,26 @@
 
 QTEK is a webgl graphic library.
 
-### [Download v0.2.1](https://github.com/pissang/qtek/archive/0.2.1.zip)
+## Installation
+
+Using npm:
+
+```bash
+$ {sudo -H} npm i -g npm
+$ npm i --save qtek
+```
+
+In Node.js/io.js:
+
+```js
+// load the modern build
+var qtek = require('qtek');
+// or a method (great for smaller builds with webpack)
+var qtek = require('qtek');
+var Node = require('qtek/Node');
+```
+
+See the [package source](https://github.com/uooo/qtek/tree/npm) for more details.
 
 ### [API](http://pissang.github.io/qtek/doc/api)
 

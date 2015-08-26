@@ -1,0 +1,9 @@
+node_modules/
+doc/
+tests/
+tools/
+.svnignore
+.gitignore
+.npmignore
+*.iml
+.idea
