@@ -2,6 +2,27 @@
 
 QTEK is a webgl graphic library.
 
+[![NPM version][npm-badge]][npm] [![Gitter][gitter-badge]][gitter]
+
+[![Dependency Status][deps-badge]][deps]
+[![devDependency Status][dev-deps-badge]][dev-deps]
+[![peerDependency Status][peer-deps-badge]][peer-deps]
+
+[npm-badge]: https://img.shields.io/npm/v/qtek.svg?style=flat-square
+[npm]: http://badge.fury.io/js/qtek
+
+[gitter-badge]: https://img.shields.io/badge/gitter-join%20chat-f81a65.svg?style=flat-square
+[gitter]: https://gitter.im/uooo/qtek?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+[deps-badge]: https://david-dm.org/uooo/qtek.svg
+[deps]: https://david-dm.org/uooo/qtek
+
+[dev-deps-badge]: https://david-dm.org/uooo/qtek/dev-status.svg
+[dev-deps]: https://david-dm.org/uooo/qtek#info=devDependencies
+
+[peer-deps-badge]: https://david-dm.org/uooo/qtek/peer-status.svg
+[peer-deps]: https://david-dm.org/uooo/qtek#info=peerDependencies
+
 ### [Download v0.2.1](https://github.com/pissang/qtek/archive/0.2.1.zip)
 
 ### [API](http://pissang.github.io/qtek/doc/api)
