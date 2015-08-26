@@ -1,6 +1,13 @@
 {
     "name" : "qtek",
-    "version" : "0.2.1",
+    "description": "WebGL graphic library",
+    "version" : "0.2.1-npm-test",
+    "main": "dist/qtek.js",
+    "keywords": [
+        "WebGL",
+        "graphic"
+    ],
+    "repository": "git://github.com/uooo/qtek",
     "devDependencies" : {
         "grunt" : "*",
         "grunt-contrib-requirejs" : "*",
