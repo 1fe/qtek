@@ -8,7 +8,7 @@ QTEK is a webgl graphic library.
 [![devDependency Status][dev-deps-badge]][dev-deps]
 [![peerDependency Status][peer-deps-badge]][peer-deps]
 
-[npm-badge]: https://img.shields.io/npm/v/qtek.svg?style=flat-square
+[npm-badge]: http://badge.fury.io/js/qtek.svg
 [npm]: http://badge.fury.io/js/qtek
 
 [gitter-badge]: https://img.shields.io/badge/gitter-join%20chat-f81a65.svg?style=flat-square
