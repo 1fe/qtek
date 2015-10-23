@@ -2,7 +2,7 @@
 
 QTEK is a webgl graphic library.
 
-[![NPM version][npm-badge]][npm] [![Gitter][gitter-badge]][gitter]
+[![NPM version][npm-badge]][npm] 
 
 [![Dependency Status][deps-badge]][deps]
 [![devDependency Status][dev-deps-badge]][dev-deps]
@@ -12,16 +12,16 @@ QTEK is a webgl graphic library.
 [npm]: http://badge.fury.io/js/qtek
 
 [gitter-badge]: https://img.shields.io/badge/gitter-join%20chat-f81a65.svg?style=flat-square
-[gitter]: https://gitter.im/uooo/qtek?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter]: https://gitter.im/luqin/qtek?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-[deps-badge]: https://david-dm.org/uooo/qtek.svg
-[deps]: https://david-dm.org/uooo/qtek
+[deps-badge]: https://david-dm.org/luqin/qtek.svg
+[deps]: https://david-dm.org/luqin/qtek
 
-[dev-deps-badge]: https://david-dm.org/uooo/qtek/dev-status.svg
-[dev-deps]: https://david-dm.org/uooo/qtek#info=devDependencies
+[dev-deps-badge]: https://david-dm.org/luqin/qtek/dev-status.svg
+[dev-deps]: https://david-dm.org/luqin/qtek#info=devDependencies
 
-[peer-deps-badge]: https://david-dm.org/uooo/qtek/peer-status.svg
-[peer-deps]: https://david-dm.org/uooo/qtek#info=peerDependencies
+[peer-deps-badge]: https://david-dm.org/luqin/qtek/peer-status.svg
+[peer-deps]: https://david-dm.org/luqin/qtek#info=peerDependencies
 
 ### [Download v0.2.1](https://github.com/pissang/qtek/archive/0.2.1.zip)
 
